@@ -4,10 +4,10 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 ```
 {
-  "SESSION_ID": "Dark-Nero;;;PaintingBurial
+  "SESSION_ID": "Dark-Nero;;;CheeredActor
 ",
-  "OWNER_NUMBER": "94774071805",
-  "OWNER_NAME": "kaveesha",
+  "OWNER_NUMBER": "94702152798",
+  "OWNER_NAME": "shehan",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb://mongo:Kx3SgXwvW4AkhXZQMDwx@containers-us-west-48.railway.app:5828",
   "PACK_INFO": "Dark;Nero",
